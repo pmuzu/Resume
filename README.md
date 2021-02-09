@@ -1,3 +1,5 @@
-<Resume>
-#Link of my Resume in multiple formats from Apple and Microsoft applications:'https://github.com/pmuzu/Resume.git'
-#I would appreciate your feedback, even if it is humiliating, accepting truth is a virtue. Thank you.
+# Resume
+# Link of my Resume in multiple formats from Apple and Microsoft applications:'https://github.com/pmuzu/Resume.git'
+# I would appreciate your feedback, even if it is humiliating, there is no ugly truth. 
+# A statement on facts, it's the definition of truth.  
+# Acceptance of thruth is a virtue. Thank you. 
