@@ -1,4 +1,4 @@
-# My Resume in multiple formats via Apple Macintosh & Microsoft Windowos Applications.
+# My Resume in multiple formats via Apple Macintosh OS & Microsoft Windows OS Applications.
 # Github Link: 'https://github.com/pmuzu/Resume.git'
 # LinkedIn Link: 'https://www.linkedin.com/in/panagiotismouzoukos'
 # I really appreciate your feedback, even if it is humiliating, there is no ugly truth. 
