@@ -1,4 +1,4 @@
-# My Resume in multiple formats via MAC-OS & Windows Applications.
+# My Resume in multiple formats via Apple Macintosh & Microsoft Windowos Applications.
 # Github Link: 'https://github.com/pmuzu/Resume.git'
 # I really appreciate your feedback, even if it is humiliating, there is no ugly truth. 
 # A statement on facts, it's the definition of truth.  
