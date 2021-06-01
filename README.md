@@ -10,6 +10,6 @@ Github Link: 'https://github.com/pmuzu/Resume.git'
 
 LinkedIn Link: 'https://www.linkedin.com/in/panagiotismouzoukos'
 
-I am seeking for a new job opportunity to demonstrate my experience, education and skills.
+I am seeking a new job opportunity to demonstrate my experience, education and skills.
 
 Thank you.
