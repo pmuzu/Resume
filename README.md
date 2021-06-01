@@ -1,4 +1,6 @@
-# This is my Professional Resume in .pdf format via Microsoft Word and Apple Pages.
+# This is my Professional Resume in .pdf format 
+
+# via Microsoft Word and Apple Pages App.
 
 Github Link: 'https://github.com/pmuzu/Resume.git'
 
